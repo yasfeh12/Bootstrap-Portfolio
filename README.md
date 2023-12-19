@@ -4,6 +4,8 @@
 
 i did this by adding : my name and a recent photo, some of services i can offer , so of my current and future projects all with interactivebuttons to link to my giyhub profile where most of my current and future work will be.i used css to add flare and style to my page and used @media to make my porfolio compatible with different deviices and used different structure styles to set out my portfolio in a clear and fun way. 
 
+![Alt text](image.png)
+
 Copyright (c) 2023 Yaseen Fehad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
